@@ -100,6 +100,28 @@ overflow: hidden;
 
 
 
+.bnt{
+    height: 45px;
+    width: 50px;
+    border-radius: 8px;
+    border: rgba(0, 0, 255, 0);
+    }
+    button {
+        background: linear-gradient(to right, rgb(99, 189, 227), rgb(238, 237, 240));
+        color: white;
+        border-radius: 2px;
+    
+    }
+    .last1{
+        background: linear-gradient(to right, rgba(99, 189, 227, 0.304), rgba(218, 215, 221, 0.381));
+
+}
+    
+    
+
+
+
+
 
 
 @media(max-width:567px) {
